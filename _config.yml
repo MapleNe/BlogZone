@@ -94,12 +94,15 @@ include:
 exclude:
 ignore:
 
-#plugins
+# Search
+## See: https://github.com/theme-next/hexo-generator-searchdb
 search:
-  path: search.xml
+  path: search.json
   field: post
   content: true
-  format: html
+  format: striptags
+  
+all_minifier: true
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
