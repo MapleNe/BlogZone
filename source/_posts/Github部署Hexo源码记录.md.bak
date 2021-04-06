@@ -22,7 +22,7 @@ git push -u origin master #推送
 生成密钥部分
 
 ```shell
-ssh-keygen -t rsa -C "邮箱" #生成密钥
+ssh-genkey -t -C rsa "邮箱" #生成密钥
 cd ~/.ssh  #查看密钥
 ```
 
