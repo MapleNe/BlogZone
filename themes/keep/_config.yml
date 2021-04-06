@@ -68,9 +68,9 @@ social_contact:
 # Navigation menu
 # ---------------------------------------------------------------------------------------
 menu:
-  Home: /
-  Archives: /archives
-  Categories: /categories
+  主页: /
+  文章: /archives
+  分类: /categories
   # Tags: /tags
   # Links: /links
   # About: /about
@@ -114,8 +114,8 @@ post:
 # Code copy
 # ---------------------------------------------------------------------------------------
 code_copy:
-  enable: false
-  style: default        # values: default | mac
+  enable: true
+  style: mac        # values: default | mac
 
 
 # ---------------------------------------------------------------------------------------
@@ -227,7 +227,7 @@ pjax:
 # Footer settings
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020      # the starting year of your website, Can be null
+  since: 2020-2021      # the starting year of your website, Can be null
   icp:             # ICP record number of your website, Can be null
 
 
