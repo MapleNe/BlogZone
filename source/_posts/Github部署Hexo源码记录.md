@@ -1,8 +1,11 @@
 ---
 title: Github部署Hexo源码记录
 date: 2021-04-07 00:27:58
+categories: 笔记
 tags: 记录
 ---
+
+
 
 ### 使用的命令
 
@@ -46,3 +49,5 @@ git config --global user.email "邮箱"
 ### 部署流程
 
 Local --> Github --> Cloudflare Deploy -->WebSite
+
+服务器不知道被哪个憨批Ddos了，转战Cloudflare新出的Pages
