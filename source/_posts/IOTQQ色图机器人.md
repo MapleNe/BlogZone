@@ -11,9 +11,9 @@ tags:
 ---
 该项目已改名为OPQbot
 ###安装机器人程序
-项目地址：[Github](https://github.com/IOTQQ/IOTQQ)
+项目地址：[[OPQBOT/OPQ](https://github.com/OPQBOT/OPQ)](https://github.com/IOTQQ/IOTQQ)
 可搭载在Linux Windows Macos平台 路由器和树莓派支持
-选择对应版本下载->[传送门](https://gitter.im/IOTQQTalk/IOTQQ)
+选择对应版本下载->[OPQBOT/OPQ - Gitter](https://gitter.im/OPQBOT/OPQ)
 ![QQ截图20200731105329.png](https://i.loli.net/2020/07/31/JMq1L49HCWITVwY.png)
 编辑`CoreConf.conf`文件在`Token`一行中填入你申请的Token。
 申请地址[Gitter Developer](https://developer.gitter.im/docs/welcome),一个Token只能绑定一个QQ，注意
