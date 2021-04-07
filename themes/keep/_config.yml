@@ -12,13 +12,13 @@ base_info:
 # ---------------------------------------------------------------------------------------
 style:
   # Theme primary color
-  primary_color: '#0066CC'
+  primary_color: '#fb7299'
 
   # Avatar (You can use local image or image external link)
-  avatar: https://v1.alapi.cn/api/avatar?email=i@scorain.com&size=100
+  avatar: /images/avatar.svg
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/favicon.ico
+  favicon: /images/favicon.svg
 
   # Article image align position, value: left | center
   article_img_align: left
@@ -36,9 +36,9 @@ style:
 
   # First screen
   first_screen:
-    enable: false
+    enable: true
     background_img: /images/bg.svg   # You can use local image or image external link
-    description: Keep writing and Keep loving.
+    description: One By One anyway...
 
   # Scroll style settings
   scroll:
