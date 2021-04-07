@@ -40,7 +40,3 @@ pkg install nodejs -y
 ```
 pkg install git -y
 ```
-安装Hexo  这里需要科学上网
-```
-npm install hexo-cli -g
-```
