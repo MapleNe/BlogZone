@@ -17,6 +17,7 @@ git add . #添加文件
 git commit -m "" #添加说明
 git remote add origin #添加远程地址
 git push -u origin master #推送
+git pull origin master #同步远程仓库代码到本地
 ```
 
 生成密钥部分
