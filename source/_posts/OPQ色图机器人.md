@@ -1,5 +1,5 @@
 ---
-title: IOTQQ色图机器人
+title: OPQ色图机器人
 date: 2020-07-31 03:06:00
 categories: 折腾
 urlname: 46
