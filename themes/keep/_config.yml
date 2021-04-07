@@ -82,7 +82,7 @@ menu:
 # ---------------------------------------------------------------------------------------
 home_article:
   category:
-    enable: false     # show category in home page article block
+    enable: true     # show category in home page article block
     limit: 3          # max number of categories shown in home page article block
   tag:
     enable: false     # show tags in home page article block
@@ -159,7 +159,7 @@ website_count:
 # See: https://github.com/theme-next/hexo-generator-searchdb
 # ---------------------------------------------------------------------------------------
 local_search:
-  enable: false
+  enable: true
   preload: false     # Preload the search data when the page loads
 
 
