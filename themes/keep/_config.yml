@@ -68,10 +68,10 @@ social_contact:
 # Navigation menu
 # ---------------------------------------------------------------------------------------
 menu:
-  主页: /
-  归档: /archives
+  Home: /
+  Archives: /archives
   # Tags: /tags
-  友链: /links
+  Links: /links
   # About: /about
   # Changelog: /changelog
   # ......
