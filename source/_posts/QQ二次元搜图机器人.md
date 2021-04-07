@@ -14,8 +14,8 @@ tags:
 
 >这是一个以 Nodejs 编写的酷Q机器人插件，用于搜图、搜番、搜本子，并夹带了许多娱乐向功能
 
-##安装
-###酷Q支持Docker一键配置，先安装Docker
+## 安装
+### 酷Q支持Docker一键配置，先安装Docker
 ```
 #CentOS 6
 rpm -iUvh http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
@@ -48,7 +48,7 @@ docker run --name wine-coolq -d \
 -e COOLQ_URL=https://dlsec.cqp.me/cqp-tuling \
 richardchien/cqhttp
 ```
-###参数说明
+### 参数说明
 ```
 -p 将内部的Web运行端口9000映射到外部的9000，可自行修改端口。
 -v 将内部酷Q和其数据文件夹/home/user/coolq映射到外部的/coolq文件夹，可自行修改路径。
@@ -219,7 +219,7 @@ npm run pm2restart
 npm run pm2log
 ```
 
-##使用
+## 使用
 **日常使用**
 ```
 #私聊
@@ -305,7 +305,7 @@ anime
 
 更多配置查看[github](https://github.com/Tsuk1ko/CQ-picfinder-robot#%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8)
 
-##说明
+## 说明
 ```
 #为什么有时候搜不想要的出结果？
 需要说明的是，搜图引擎发现新图片并收录也是需要时间的，因此画师刚上传的画作一般情况下是没办法搜到的

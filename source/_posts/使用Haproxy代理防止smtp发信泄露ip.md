@@ -7,11 +7,11 @@ tags:
 - 教程
 ---
 Smtp发信会泄露源站ip，CDN无法防护，使用Haproxy就可以避免了
-##Centos
+## Centos
 ```shell
 yum -y install haproxy
 ```
-##debian
+## debian
 ```shell
 echo deb http://httpredir.debian.org/debian wheezy-backports main | \
       sed 's/\(.*\)-sloppy \(.*\)/&@\1 \2/' | tr @ '\n' | \
@@ -21,7 +21,7 @@ apt-get update
 apt-get install haproxy -t wheezy-backports
 ```
 
-##配置
+## 配置
 清空文件内容
 ```shell
 cd /etc/haproxy/
@@ -61,7 +61,7 @@ service haproxy restart
 chkconfig haproxy on
 ```
 
-##使用
+## 使用
 在你的网站服务器下编辑`hosts`文件,写入你的中转服务器以及使用的smtp
 ```shell
 vi /etc/hosts

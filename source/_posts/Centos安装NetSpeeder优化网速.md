@@ -8,7 +8,7 @@ tags:
 ---
 net-speeder可以在高延迟不稳定链路上优化单线程下载速度，消耗双倍流量降低延迟
 
-##安装
+## 安装
 ```
 wget https://github.com/snooda/net-speeder/archive/master.zip&&unzip master.zip&&yum install epel-release -y&&cd net-speeder-master&&sh build.sh&&yum install screen -y&&screen ./net_speeder eth0 "ip"
 ```

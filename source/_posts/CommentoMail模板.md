@@ -8,7 +8,7 @@ tags:
 ---
 贴一下目前邮箱评论的模板吧，需要修改到mailer或者其他插件看着地方改就行了
 ![1](https://i.loli.net/2020/03/16/AzuhemfXqGta2EP.png)
-##guest
+## guest
 ```html
 <div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;box-shadow: 0px 0px 20px #888888;position: relative;padding-bottom: 5px;">
     <div style="background-image: url(https://s2.ax1x.com/2019/12/10/QD1rg1.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
@@ -38,7 +38,7 @@ tags:
 </div>
 ```
 
-##owner
+## owner
 ```html
 <div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;box-shadow: 0px 0px 20px #888888;position: relative;">
     <div style="background-image: url(https://s2.ax1x.com/2019/12/10/QD1rg1.jpg);width:550px;height: 250px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>

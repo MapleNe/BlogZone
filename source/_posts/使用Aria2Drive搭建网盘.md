@@ -8,7 +8,7 @@ tags:
 ---
 这个是群友推荐的，使用aria2+oneindex+rclone搭建下载自动上传到onedrive的网盘，原址[Aria2Drive：一键搭建自己的网盘](https://pa.ci/95.html)
 
-##安装
+## 安装
 因为作者适配的是`debian`所以我使用的是`debian`系统搭建的，不过作者理论上说支持ubuntu等，只要删除相关代码就行了
 ```shell
 wget --no-check-certificate -O Aria2Drive.sh https://raw.githubusercontent.com/uselibrary/Aria2Drive/master/Aria2Drive.sh && chmod +x Aria2Drive.sh && bash Aria2Drive.sh
@@ -134,19 +134,19 @@ Then paste the result below:
 result> {"access_token":""}  #输入之前在客户端授权的内容
 ```
 
-##补充
+## 补充
 
  1. 填入邮箱认证SSL证书会给你的邮箱发送一封邮件认证，务必填写正确
  2. Aria2密码请使用大小写字母以及数字标点符号，防止出错
  3. 安装完成后需要重启服务器以确保所有服务运行
  4. 如何安装请查看[Github](https://github.com/donwa/oneindex)
 
-##说明
+## 说明
 下载文件会储存在`/home/downloads/`文件夹
 Aria2密码储存在`/etc/aria2/aria2.conf`
 systemd会负责aria2的进程守护，`systemctl start/stop/enable/disable/restart aria2`
 
-##使用
+## 使用
 AriaNG地址为`你的域名/AriaNG`
 需要配置`Aria RPC`![QQ截图20200301232915.png](https://i.loli.net/2020/03/01/RlxcVjMtPmUHgBC.png)
 下载完成之后将会被上传到onedrive中，有时上传后没有删除下载文件，需要自己删除

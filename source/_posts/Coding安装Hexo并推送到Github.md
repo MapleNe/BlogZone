@@ -11,7 +11,7 @@ tags:
 官网：[Cloud Studio](https://cloudstudio.net/)
 自行注册
 
-##总结
+## 总结
 简单来说无非就几条命令，这里列一下，下面详细讲
 ```shell
 npm install hexo-cli -g
@@ -21,14 +21,14 @@ npm install
 hexo g
 hexo d
 ```
-##创建
+## 创建
 注册完成之后先创建下工作空间
 名称：必填，随意
 预置：Nodejs
 代码：空
 创建
 
-##安装
+## 安装
 - 进入工作空间开始操作
 打开控制台，输入指令
 ```shell
@@ -60,7 +60,7 @@ hexo s
 ```
 不过是cloud studio也看不到吧，这是多余的
 
-##推送到github
+## 推送到github
 - 配置推送信息
 ```
 git config --global user.name "你的名字"

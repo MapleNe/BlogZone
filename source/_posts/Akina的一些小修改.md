@@ -9,7 +9,7 @@ tags:
 Akina for Typecho是由[缺乏维生素](https://zhebk.cn/Web/Akina.html)移植自`Wordpress`
 因为个人觉得有些不完善，所以加点小修改
 
-##聚焦
+## 聚焦
 作者聚焦图片是写死了的，所以给主题小小修改一下就可以在后台给聚焦加标题图片链接了
 修改位置：`index.php`
 ```php
@@ -71,7 +71,7 @@ Akina for Typecho是由[缺乏维生素](https://zhebk.cn/Web/Akina.html)移植�
 ```
 有些乱，凑合着用
 
-##聚焦图片自动裁剪
+## 聚焦图片自动裁剪
 配合上面的修改一起用，主题原本是没有自动裁剪图片功能的，没有事先裁剪好，图片会拉伸
 修改位置：`css/style.css`
 将下面代码添加到`.top-feature img {}`花括号里面，保存就成了
@@ -80,7 +80,7 @@ object-fit: cover;
 ```
 
 
-##添加灯箱效果
+## 添加灯箱效果
 这个是因为在pc端看不见小图片我给加上去的，代码来自[Typecho文章图片添加灯箱效果](https://www.seogo.me/typecho/598.html)
 修改位置：`header.php </head>`标签之前
 ```php

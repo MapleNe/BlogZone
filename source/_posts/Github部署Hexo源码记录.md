@@ -7,7 +7,7 @@ tags: 记录
 
 
 
-### 使用的命令
+###  使用的命令
 
 配置推送部分
 
@@ -35,7 +35,7 @@ git config --global user.email "邮箱"
 
 
 
-### 命令步骤
+###  命令步骤
 
 1. 初始项目
 2. 添加文件
@@ -46,7 +46,7 @@ git config --global user.email "邮箱"
 7. 推送文件
 8. 同步源码
 
-### 部署流程
+###  部署流程
 
 Local --> Github --> Cloudflare Deploy -->WebSite
 

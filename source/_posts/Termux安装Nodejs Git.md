@@ -11,7 +11,7 @@ tags:
 至于怎么搭建的话，我这里就不说了，还是看另一篇文章吧，操作步骤都是一样的
 [Coding安装Hexo并推送到Github](https://www.scorain.com/van/14.html)
 
-##准备一下
+## 准备一下
 如果你还不知道什么是Termux的话，还是看看下面这段描述吧
 >Termux是一个Android下一个高级的终端模拟器, 开源且不需要root, 支持apt管理软件包，十分方便安装软件包, 完美支持Python, PHP, Ruby, Go, Nodejs, MySQL等。随着智能设备的普及和性能的不断提升，如今的手机、平板等的硬件标准已达到了初级桌面计算机的硬件标准, 用心去打造完全可以把手机变成一个强大的工具.
 
@@ -19,7 +19,7 @@ tags:
 这里是Termux的安装包下载地址
 [酷安Termux](https://www.coolapk.com/apk/com.termux)
 
-##开始安装吧
+## 开始安装吧
 如果你完成了简单介绍和安装，你已经对Termux有个大概的了解了
 打开Termux『需要科学上网，喜欢搞♂机的都有一个』
 无法打开安装的话用这个[完整包](https://tonyij.coding.net/s/550ac343-e525-458a-b396-084b3c3996b5)吧

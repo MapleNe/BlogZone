@@ -10,7 +10,7 @@ tags:
 - Macos
 ---
 该项目已改名为OPQbot
-###安装机器人程序
+### 安装机器人程序
 项目地址：[[OPQBOT/OPQ](https://github.com/OPQBOT/OPQ)](https://github.com/IOTQQ/IOTQQ)
 可搭载在Linux Windows Macos平台 路由器和树莓派支持
 选择对应版本下载->[OPQBOT/OPQ - Gitter](https://gitter.im/OPQBOT/OPQ)
@@ -24,7 +24,7 @@ Linux启动使用Chmod +x IOTBOT && ./IOTbot
 启动出现`Everthing is ok`后打开http://IP:PORT/v1/Login/GetQRcode
 扫码登录QQ
 
-###安装机器人插件
+### 安装机器人插件
 项目地址:[Github](https://github.com/yuban10703/IOTQQ-color_pic)
 申请Key https://api.lolicon.app/#/setu?id=apikey
 下载Python3 https://www.python.org/downloads/ 
