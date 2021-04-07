@@ -3,7 +3,6 @@ title: links
 date: 2021-04-07 01:13:59
 ---
 
-```yaml
 - name: Typeboom
   link: https://typeboom.com/
   description: 一个用土豆搭建的博客，记录一些有趣的事情
@@ -23,4 +22,3 @@ date: 2021-04-07 01:13:59
   link: https://mikewind.cn/
   description: 剪辑爱好者，b站咸鱼up
   avatar: https://www.mikewind.cn/portrait/mikewind.jpg
-```

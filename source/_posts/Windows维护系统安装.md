@@ -6,7 +6,7 @@ urlname: 49
 tags:
 - WinPE
 ---
-<!--markdown-->## 介绍
+## 介绍
 Windows Preinstallation Environment（Windows PE），Windows预安装环境，是带有有限服务的最小Win32子系统，基于以保护模式运行的Windows XP Professional及以上内核。它包括运行Windows安装程序及脚本、连接网络共享、自动化基本过程以及执行硬件验证所需的最小功能。用于安装、部署和修复 Windows 桌面版（家庭版、专业版、企业版和教育版）、Windows Server 和其他 Windows 操作系统。
 更多介绍请查看[知乎](https://www.zhihu.com/question/304170141)了解详情
 

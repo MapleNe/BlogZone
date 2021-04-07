@@ -7,7 +7,7 @@ tags:
 - 教程
 - Linux
 ---
-<!--markdown-->标题是这么写的，不过只是前提，关键还是要用Hexo来搭建个人博客啦
+标题是这么写的，不过只是前提，关键还是要用Hexo来搭建个人博客啦
 至于怎么搭建的话，我这里就不说了，还是看另一篇文章吧，操作步骤都是一样的
 [Coding安装Hexo并推送到Github](https://www.scorain.com/van/14.html)
 

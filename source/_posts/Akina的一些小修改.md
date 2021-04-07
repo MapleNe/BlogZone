@@ -6,7 +6,7 @@ urlname: 29
 tags:
 - 教程
 ---
-<!--markdown-->Akina for Typecho是由[缺乏维生素](https://zhebk.cn/Web/Akina.html)移植自`Wordpress`
+Akina for Typecho是由[缺乏维生素](https://zhebk.cn/Web/Akina.html)移植自`Wordpress`
 因为个人觉得有些不完善，所以加点小修改
 
 ##聚焦

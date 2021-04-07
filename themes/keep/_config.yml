@@ -70,9 +70,8 @@ social_contact:
 menu:
   主页: /
   归档: /archives
-  分类: /categories
   # Tags: /tags
-  # Links: /links
+  友链: /links
   # About: /about
   # Changelog: /changelog
   # ......

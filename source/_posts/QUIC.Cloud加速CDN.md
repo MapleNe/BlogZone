@@ -6,7 +6,7 @@ urlname: 24
 tags:
 - CDN
 ---
-<!--markdown-->简单介绍下`Quic.cloud`，这是一家提供wordpress缓存加速节点的CDN服务商
+简单介绍下`Quic.cloud`，这是一家提供wordpress缓存加速节点的CDN服务商
 免费账号提供20G流量，但我账号好像不走流量了
 >QUIC.cloud is the first and only content delivery network with the ability to cache dynamic WordPress pages. Using QUIC as the transfer protocol, QUIC.cloud will make your website faster and more secure than the competition.
 QUIC.cloud greatly reduces transmission time to all of your site’s visitors, no matter where they live. Your website is potentially located across the globe from its visitors, but with QUIC.cloud, your content is cached on servers all around the world. When a visitor requests content from your site, a copy is served from the visitor’s nearest server location. By transmitting both static and dynamic content from the closest server, instead of from the main site server, QUIC.cloud dramatically speeds up your site.

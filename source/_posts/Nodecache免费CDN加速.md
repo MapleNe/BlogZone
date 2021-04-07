@@ -6,7 +6,7 @@ urlname: 14-1
 tags:
 - CDN
 ---
-<!--markdown-->今天网站被CC和DD了，CC整不住我网站就用DD，真实蛮恶心的
+今天网站被CC和DD了，CC整不住我网站就用DD，真实蛮恶心的
 这次套个NodeCache的CDN，网站打开速度比之前好了很多，注册还送1000G流量
 请务必`使用Aff注册`才会有1000G流量,点击下方链接即可
 注册请使用`域名邮箱 outlook gmail或其他邮箱`，QQ不支持

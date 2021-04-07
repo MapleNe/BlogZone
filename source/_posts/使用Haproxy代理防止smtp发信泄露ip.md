@@ -6,7 +6,7 @@ urlname: 19
 tags:
 - 教程
 ---
-<!--markdown-->Smtp发信会泄露源站ip，CDN无法防护，使用Haproxy就可以避免了
+Smtp发信会泄露源站ip，CDN无法防护，使用Haproxy就可以避免了
 ##Centos
 ```shell
 yum -y install haproxy

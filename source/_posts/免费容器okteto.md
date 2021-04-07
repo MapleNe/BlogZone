@@ -7,7 +7,7 @@ tags:
 - 随记
 - 笔记
 ---
-<!--markdown-->可一键部署WordPress博客
+可一键部署WordPress博客
 ![Screenshot_20200329-224820_Chrome.png](https://i.loli.net/2020/03/29/DnrX36B5Hd2omVF.png)
 尚未研究是否可长久运行，以及绑定域名，待我研究之后会说明
 

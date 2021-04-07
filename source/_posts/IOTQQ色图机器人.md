@@ -9,7 +9,7 @@ tags:
 - Linux
 - Macos
 ---
-<!--markdown-->该项目已改名为OPQbot
+该项目已改名为OPQbot
 ###安装机器人程序
 项目地址：[Github](https://github.com/IOTQQ/IOTQQ)
 可搭载在Linux Windows Macos平台 路由器和树莓派支持

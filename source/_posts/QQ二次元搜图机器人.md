@@ -6,7 +6,7 @@ urlname: 9
 tags:
 - 教程
 ---
-<!--markdown-->`CQ-picfinder-robot`插件由[神代綺凜](https://moe.best)使用nodejs编写（开源）
+`CQ-picfinder-robot`插件由[神代綺凜](https://moe.best)使用nodejs编写（开源）
 项目地址：[Github](https://github.com/Tsuk1ko/CQ-picfinder-robot)
 该插件需要配合`酷Q`使用，并且需要启动`CoolQ HTTP API`插件，并将配置文件`use_ws`设置为`true`
 详情查看[官方使用文档](https://cqhttp.cc/docs/4.10/#/Configuration)

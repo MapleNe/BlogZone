@@ -6,7 +6,7 @@ urlname: 14
 tags:
 - 教程
 ---
-<!--markdown-->今天还是要水下文章，这里说下，coding已经被腾讯收购了，所以叫Cloud Studio也是一样的
+今天还是要水下文章，这里说下，coding已经被腾讯收购了，所以叫Cloud Studio也是一样的
 之所以使用Cloud Studio是因为简便，如果你有服务器的话可以不适用Cloud Studio
 官网：[Cloud Studio](https://cloudstudio.net/)
 自行注册

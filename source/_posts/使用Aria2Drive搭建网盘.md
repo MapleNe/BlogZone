@@ -6,7 +6,7 @@ urlname: 27
 tags:
 - 教程
 ---
-<!--markdown-->这个是群友推荐的，使用aria2+oneindex+rclone搭建下载自动上传到onedrive的网盘，原址[Aria2Drive：一键搭建自己的网盘](https://pa.ci/95.html)
+这个是群友推荐的，使用aria2+oneindex+rclone搭建下载自动上传到onedrive的网盘，原址[Aria2Drive：一键搭建自己的网盘](https://pa.ci/95.html)
 
 ##安装
 因为作者适配的是`debian`所以我使用的是`debian`系统搭建的，不过作者理论上说支持ubuntu等，只要删除相关代码就行了

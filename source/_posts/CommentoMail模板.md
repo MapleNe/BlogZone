@@ -6,7 +6,7 @@ urlname: 18
 tags:
 - 笔记
 ---
-<!--markdown-->贴一下目前邮箱评论的模板吧，需要修改到mailer或者其他插件看着地方改就行了
+贴一下目前邮箱评论的模板吧，需要修改到mailer或者其他插件看着地方改就行了
 ![1](https://i.loli.net/2020/03/16/AzuhemfXqGta2EP.png)
 ##guest
 ```html

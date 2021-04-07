@@ -6,7 +6,7 @@ urlname: 48
 tags:
 - PhotoShop
 ---
-<!--markdown-->## 介绍
+## 介绍
 Adobe Photoshop，简称“PS”，是由Adobe Systems开发和发行的图像处理软件。
 Photoshop主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。ps有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。
 2003年，Adobe Photoshop 8被更名为Adobe Photoshop CS。2013年7月，Adobe公司推出了新版本的Photoshop CC，自此，Photoshop CS6作为Adobe CS系列的最后一个版本被新的CC系列取代。

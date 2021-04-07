@@ -6,7 +6,7 @@ urlname: 37
 tags:
 - 教程
 ---
-<!--markdown-->Typecho默认获取的头像是`Gravatar`的，要修改为获取QQ的头像只需一点小改动
+Typecho默认获取的头像是`Gravatar`的，要修改为获取QQ的头像只需一点小改动
 在`/var/Typecho/Common.php`第986行
 
 ```php
