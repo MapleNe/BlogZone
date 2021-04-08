@@ -2,7 +2,6 @@
 title: [记录]Windows2019 LTSC那些事
 date: 2020-03-19 11:34:00
 categories: 折腾
-urlname: 22
 tags:
 - 笔记
 ---
