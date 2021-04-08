@@ -52,7 +52,7 @@ style:
 # Social contact link
 # ---------------------------------------------------------------------------------------
 social_contact:
-  enable: false
+  enable: true
   links:
     github:          # your GitHub URL
     weixin:          # your WeChat QR-Code URL
@@ -61,7 +61,7 @@ social_contact:
     zhihu:           # your ZhiHu URL
     twitter:         # your twitter URL
     facebook:        # your facebook URL
-    email:           # your email
+    email: i@scorain.com          # your email
 
 
 # ---------------------------------------------------------------------------------------
