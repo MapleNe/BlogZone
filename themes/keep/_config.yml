@@ -226,7 +226,7 @@ pjax:
 # Footer settings
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020-2021      # the starting year of your website, Can be null
+  since: 2020      # the starting year of your website, Can be null
   icp:             # ICP record number of your website, Can be null
 
 
