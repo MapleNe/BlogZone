@@ -54,7 +54,9 @@ Adobe Perlude
 
 Adobe Premiere pro
 
+### 安装示例
 
+<video id="movies" src="https://file.nmb.show/view.php/4d6fac05c62380b925e2c16e25e647d4.mp4" autobuffer="true" controls="" width="100%"></video>
 
 ### 下载地址 （地址不定时更新）
 
