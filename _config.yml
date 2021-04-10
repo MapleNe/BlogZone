@@ -102,6 +102,14 @@ search:
   content: true
   format: striptags
   
+  
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
+  
 all_minifier: true
 
 # Extensions
