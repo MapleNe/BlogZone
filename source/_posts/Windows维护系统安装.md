@@ -28,4 +28,7 @@ Windows Preinstallation Environment（Windows PE），Windows预安装环境，�
 4. 点击`立即安装进U盘`进度条100%及可完成
 
 ##  设置U盘启动
-待补充。。。。
+大部分笔记本是`F2`进入Bios，或者`FN`+`F2`。快捷启动用`F12`
+
+台式看主板，大部分用`Del`或者`ESC`
+
