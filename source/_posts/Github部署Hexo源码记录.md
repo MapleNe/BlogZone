@@ -90,7 +90,7 @@ cd ~/.ssh  #查看密钥
 
 复制`.pub`文件里的密钥，将其添加到[个人资料](https://github.com/settings/keys)的`SSH and GPG keys`中
 
-#### 推送文件到Githzub仓库
+#### 推送文件到Github仓库
 
 进入项目文件夹
 
