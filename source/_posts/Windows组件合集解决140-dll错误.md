@@ -9,6 +9,8 @@ tags:
 
  该工具用于Windows组件补齐Adobe或其他类似的软件 的运行依赖，防止140.dll之类的错误出现。 
 
+`必装`
+
 ### 组件目录：
 
 Microsoft Visual Basic/C++ Runtime (x86/x64)
