@@ -9,7 +9,7 @@ tags:
 
  该工具用于Windows组件补齐Adobe或其他类似的软件 的运行依赖，防止140.dll之类的错误出现。 
 
-`必装`
+`必装`[工具下载](https://pcdownsoft301.pc6.com/r/j-gHFmwjiUUOZIxTQ7pFsZMVIxPcIlIaacaXwz5HnKspk-ZwjVSm4ZtbevCR3rv8xUo1t2hr3QBB469Mj9c_ZHIZQ5e2oNQ1H_iUmSzlUIpkwaCmNYbZ-pzkfYpi7zD54sOLDzji1vZWa56JYLgcV5ub8_P3etpUoyx0Y4mfpH8~?filename=wrcyyxkhj_v2021.02.23.exe)
 
 ### 组件目录：
 
