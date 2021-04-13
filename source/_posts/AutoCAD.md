@@ -10,7 +10,7 @@ tags:
 
 ### 安装
 
-文字教程为精简教程，具体步骤请看视频
+文字教程为精简教程，具体步骤请看视频，`如有旧版AutoCAD应当卸载完成之后再安装！`
 
 1. 下载文件：[传送门](https://trial2.autodesk.com/NetSWDLD/2021/ACD/9046B381-E756-4D38-A7EF-FAD07F4456E6/SFX/AutoCAD_2021_Simplified_Chinese_Win_64bit_dlm.sfx.exe)
 2. 运行软件，并将文件`解压`到临时文件夹中
