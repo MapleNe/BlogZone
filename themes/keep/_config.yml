@@ -149,9 +149,9 @@ website_count:
   # busuanzi
   # See: http://ibruce.info/2015/04/04/busuanzi/
   busuanzi_count:
-    enable: false
-    site_uv: false
-    site_pv: false
+    enable: true
+    site_uv: true
+    site_pv: true
     page_pv: false
 
 
