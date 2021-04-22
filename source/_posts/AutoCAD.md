@@ -21,5 +21,4 @@ tags:
 
 ### 视频教程 （文件大小：22.89MB）
 
-<video id="movies" src="https://file.nmb.show/view.php/22a84589a7f9b2ca16f3b536405020e1.mp4" autobuffer="true" controls="" width="100%"></video>
-
+<video id="movies" src="https://file.nmb.show/view.php/63e6a7223c47f2e4f35bbd5700dcbf22.mp4" autobuffer="true" controls="" width="100%"></video>
