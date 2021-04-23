@@ -229,7 +229,8 @@ pjax:
 # ---------------------------------------------------------------------------------------
 footer:
   since: 2020      # the starting year of your website, Can be null
-  icp: 本站由[阿森博客](https://www.asenl.com/)提供提供CDN加速服务            # ICP record number of your website, Can be null
+  icp:             # ICP record number of your website, Can be null
+  nope: 本站由[阿森博客](https://www.asenl.com/)提供CDN加速服务
 
 
 # ---------------------------------------------------------------------------------------
