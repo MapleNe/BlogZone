@@ -1,7 +1,7 @@
 <%- __js('js/libs/pjax.min.js') %>
 <script>
     window.addEventListener('DOMContentLoaded', () => {
-        const pjax = new Pjax({
+        window.pjax = new Pjax({
             selectors: [
                 'head title',
                 '.page-container',
@@ -23,7 +23,7 @@
 
         document.addEventListener('pjax:complete', () => {
             KEEP.utils.pjaxProgressBarEnd();
-            pjax.executeScripts(document.querySelectorAll('script[data-pjax], .pjax script'));
+            window.pjax.executeScripts(document.querySelectorAll('script[data-pjax], .pjax script'));
             KEEP.refresh();
         });
     });

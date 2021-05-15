@@ -4,7 +4,7 @@
 base_info:
   title: Tmis's Room
   author: Tmis
-  url: https://scorain.com/
+  url: https://www.scorain.com/
 
 
 # ---------------------------------------------------------------------------------------
@@ -230,7 +230,6 @@ pjax:
 footer:
   since: 2020      # the starting year of your website, Can be null
   icp:             # ICP record number of your website, Can be null
-  nope: 本站由[阿森博客](https://www.asenl.com/)提供CDN加速服务
 
 
 # ---------------------------------------------------------------------------------------
