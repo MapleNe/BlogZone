@@ -36,6 +36,8 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 [驱动文件下载](http://softwareupdate.vmware.com/cds/vmw-desktop/ws/16.0.0/16894299/windows/packages/tools-windows.tar) |需要解压
 
+[激活工具下载](https://file.nmb.show/down.php/e189f28081a56d664ed453a0d8d5086a.zip) |需要解压
+
 <video id="movies" src="https://file.nmb.show/view.php/0aa9ec99a569eb4a075eb0ad2da80026.mp4" autobuffer="true" controls="" width="100%"></video>
 
 
@@ -50,6 +52,14 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 2. 添加域名并解析
 3. 修改网络DNS服务器
 4. 安装IIS
+
+DNS服务器ip就是虚拟机IP，输入
+
+```
+ipconfig
+```
+
+可查看虚拟机IP地址
 
 <video id="movies" src="https://file.nmb.show/view.php/c7615de83d23dc87a5d6d522dd2c5b50.mp4" autobuffer="true" controls="" width="100%"></video>
 
