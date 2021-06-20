@@ -170,15 +170,15 @@ local_search:
 # Comment plugin
 # ---------------------------------------------------------------------------------------
 comment:
-  enable: false
+  enable: true
   use: valine  # values: valine | gitalk | twikoo
 
   # Valine
   # See: https://github.com/xCss/Valine
   valine:
-    appid:                # your leancloud application appid
-    appkey:               # your leancloud application appkey
-    placeholder:          # your placeholder
+    appid: Fc5vfA6C9TgkPgIYJooPDEYy-gzGzoHsz               # your leancloud application appid
+    appkey: z348z1hIh1yTIzbX9kNEWCaw              # your leancloud application appkey
+    placeholder: 快来写下成为女装大佬的宣言吧！         # your placeholder
 
   # Gitalk
   # See: https://github.com/gitalk/gitalk
