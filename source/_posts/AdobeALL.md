@@ -61,7 +61,7 @@ Adobe Premiere pro
 ### 下载地址 （地址不定时更新）
 
 推荐使用天翼云下载，如无法访问再使用百度云替代
-链接于2021/8/18更新
+链接于2021/8/28更新
 [百度云](https://pan.baidu.com/s/1Jwa2V9lnQMPXIDZjROP04w) 提取码：t5jv  
 
 [天翼云](https://cloud.189.cn/t/ZFRZNzy26buq) 访问码：5d6c
