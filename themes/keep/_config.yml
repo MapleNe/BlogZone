@@ -17,7 +17,7 @@ style:
   primary_color: '#fb7299'
 
   # Avatar (You can use local image or image external link)
-  avatar: https://q1.qlogo.cn/g?b=qq&nk=1292778464&s=640
+  avatar: https://q.qlogo.cn/headimg_dl?dst_uin=1292778464&spec=640
 
   # Favicon (You can use local image or image external link)
   favicon: /images/favicon.svg
