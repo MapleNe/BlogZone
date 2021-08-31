@@ -121,3 +121,8 @@ theme: keep
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
+
+
+abbrlink:
+  start: 1 # the first id, default 0  
