@@ -28,7 +28,7 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 #### 系统
 
-<video id="movies" src="https://file.nmb.show/view.php/0d3af6adced9082774028b1bbeaee56c.mp4" autobuffer="true" controls="" width="100%"></video>
+<video id="movies" src="https://drive.scorain.com/个人仓库/博客文件/简易安装系统.mp4" autobuffer="true" controls="" width="100%"></video>
 
 #### 驱动与激活
 
@@ -38,7 +38,8 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 [激活工具下载](https://file.nmb.show/down.php/e189f28081a56d664ed453a0d8d5086a.zip) |需要解压
 
-<video id="movies" src="https://file.nmb.show/view.php/0aa9ec99a569eb4a075eb0ad2da80026.mp4" autobuffer="true" controls="" width="100%"></video>
+<video id="movies" src="
+https://drive.scorain.com/个人仓库/博客文件/VMtool驱动安装和系统激活.mp4" autobuffer="true" controls="" width="100%"></video>
 
 
 
@@ -61,5 +62,5 @@ ipconfig
 
 可查看虚拟机IP地址
 
-<video id="movies" src="https://file.nmb.show/view.php/c7615de83d23dc87a5d6d522dd2c5b50.mp4" autobuffer="true" controls="" width="100%"></video>
+<video id="movies" src="https://drive.scorain.com/个人仓库/博客文件/windows2008安装iis和dns服务器.mp4" autobuffer="true" controls="" width="100%"></video>
 
