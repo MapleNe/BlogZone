@@ -1,13 +1,11 @@
+---
 title: SQL Server安装与卸载重装
-date: 2021-09-03 23:59:00
+date: 2021-09-4 01:39:09
 categories: 折腾
-tags:
+tags: 
 - 教程
-
-##  
-
-
-
+- SQLServer
+---
   视频教程时长比较长，建议开启1.5倍数观看，如看不清楚放慢速度即可。
 
 建议先观看下文字教程的步骤再看视频。
@@ -82,42 +80,44 @@ tags:
    `regedit`打开注册表。!>家庭版没有此功能。
 
    1. 彻底删除SQL Server：
+
       - hkey_local_machine\software\Microsoft\MSSQLServer
       - hkey_local_machine\software\Microsoft\Microsoft SQL Server
       - hkey_current_user\software\Microsoft\Microsoft SQL Server
       - hkey_current_user\software\Microsoft\MSSQLServer
       - hkey_local_machine\system\currentcontrolset\control\sessionmanager\pendingfileren    ameoperations
-      
+
    2. 注册表中的相关信息删除：
-   
+
       - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSSQLServer
-   
+
       - HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\MSDTC
-   
+
       - HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager中找到PendingFileRenameOperations项目，并删除它。这样就可以清除安装暂挂项目
 
       - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\setup
-   
-         删除ExceptionComponents
-   
+
+        删除ExceptionComponents
+
    3. 运行注册表,删除如下项：
+
       - HKEY_CURRENT_USER\Software\Microsoft\Microsoft SQL Server
       - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server
       - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSSQLServer
-      
+
    4. 进入`windows设置-应用`删除`VS和SQL`组件![](https://drive.scorain.com/个人仓库/博客文件/pic/4.png)![](https://drive.scorain.com/个人仓库/博客文件/pic/5.png)
-   
+
    5. 删除`C:\Program Files\`中Microsoft SQL Server目录
-   
+
    6. 删除`C:\Program Files(x86)\`中Microsoft SQL Server目录
-   
+
    7. 删除共享功能目录和实例目录
-   
+
    8. 使用工具（管理员模式）清除配置缓存，[点击下载](https://drive.scorain.com/个人仓库/软件/SqlServer卸载工具集合.zip)，清除完成之后重启可重新设置安装目录
-   
+
       ![](https://drive.scorain.com/个人仓库/博客文件/pic/7.png)
-   
+
       ![](https://drive.scorain.com/个人仓库/博客文件/pic/6.png)
-   
+
        
 
