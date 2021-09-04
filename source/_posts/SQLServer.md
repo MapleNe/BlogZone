@@ -85,7 +85,7 @@ tags:
       - hkey_local_machine\software\Microsoft\Microsoft SQL Server
       - hkey_current_user\software\Microsoft\Microsoft SQL Server
       - hkey_current_user\software\Microsoft\MSSQLServer
-      - hkey_local_machine\system\currentcontrolset\control\sessionmanager\pendingfileren    ameoperations
+      - hkey_local_machine\system\currentcontrolset\control\session manager\pendingfilerenameoperations
 
    2. 注册表中的相关信息删除：
 
@@ -105,19 +105,23 @@ tags:
       - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server
       - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSSQLServer
 
-   4. 进入`windows设置-应用`删除`VS和SQL`组件![](https://drive.scorain.com/个人仓库/博客文件/pic/4.png)![](https://drive.scorain.com/个人仓库/博客文件/pic/5.png)
+   4. 删除完成重启计算机！
 
-   5. 删除`C:\Program Files\`中Microsoft SQL Server目录
+   5. 进入`windows设置-应用`删除`VS和SQL`组件![](https://drive.scorain.com/个人仓库/博客文件/pic/4.png)![](https://drive.scorain.com/个人仓库/博客文件/pic/5.png)
 
-   6. 删除`C:\Program Files(x86)\`中Microsoft SQL Server目录
+   6. 删除`C:\Program Files\`中Microsoft SQL Server目录
 
-   7. 删除共享功能目录和实例目录
+   7. 删除`C:\Program Files(x86)\`中Microsoft SQL Server目录
 
-   8. 使用工具（管理员模式）清除配置缓存，[点击下载](https://drive.scorain.com/个人仓库/软件/SqlServer卸载工具集合.zip)，清除完成之后重启可重新设置安装目录
+   8. 删除共享功能目录和实例目录
+
+   9. 使用工具（管理员模式）清除配置缓存，[点击下载](https://drive.scorain.com/个人仓库/软件/SqlServer卸载工具集合.zip)，清除完成之后重启可重新设置安装目录
+
+   10. 重启计算机！
 
       ![](https://drive.scorain.com/个人仓库/博客文件/pic/7.png)
-
+   
       ![](https://drive.scorain.com/个人仓库/博客文件/pic/6.png)
-
+   
        
 
