@@ -7,6 +7,8 @@ tags:
 - Windows
 ---
 
+**注意：品牌机默认是消费者版镜像，需要另外升级成商业版才能转换**
+
 ### 更换密钥：
 
 ![QQ截图20210417143643.png](https://i.loli.net/2021/04/17/JfO7kc1nieylzNC.png)
@@ -55,7 +57,7 @@ Enjoy！
 
 #### 软件激活
 
-[下载工具](https://file.nmb.show/down.php/e189f28081a56d664ed453a0d8d5086a.zip)可激活Windows和Office
+[下载工具](https://drive.scorain.com/个人仓库/软件/aactportablechs3264w.zip)可激活Windows和Office
 
 直接激活即可
 

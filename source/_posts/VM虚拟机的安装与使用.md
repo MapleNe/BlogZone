@@ -36,7 +36,7 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 [驱动文件下载](http://softwareupdate.vmware.com/cds/vmw-desktop/ws/16.0.0/16894299/windows/packages/tools-windows.tar) |需要解压
 
-[激活工具下载](https://file.nmb.show/down.php/e189f28081a56d664ed453a0d8d5086a.zip) |需要解压
+[激活工具下载](https://drive.scorain.com/个人仓库/软件/aactportablechs3264w.zip) |需要解压
 
 <video id="movies" src="
 https://drive.scorain.com/个人仓库/博客文件/VMtool驱动安装和系统激活.mp4" autobuffer="true" controls="" width="100%"></video>
