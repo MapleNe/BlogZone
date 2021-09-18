@@ -20,7 +20,7 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 #### 安装包下载地址
 
-[点我下载](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe)
+[点我下载](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe) 版本16.1.2
 
 
 
