@@ -40,7 +40,7 @@ style:
   first_screen:
     enable: true
     background_img: /images/bg.svg   # You can use local image or image external link
-    description: 黄道十之又二，名天蝎，位秤之东，射之西。
+    description: 黄道十二，名天蝎，位秤之东，射之西。
 
   # Scroll style settings
   scroll:
