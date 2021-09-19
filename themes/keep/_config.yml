@@ -14,7 +14,7 @@ base_info:
 # ---------------------------------------------------------------------------------------
 style:
   # Theme primary color
-  primary_color: '#fb7299'
+  primary_color: '#484853'
 
   # Avatar (You can use local image or image external link)
   avatar: https://q1.qlogo.cn/g?b=qq&nk=1292778464&s=0
