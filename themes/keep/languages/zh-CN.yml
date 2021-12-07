@@ -29,7 +29,6 @@ read_more: 阅读全文
 wordcount: 字
 min2read: 分钟
 changelog: 更新日志
-dirve: 仓库
 copyright:
   title: 本文标题
   author: 本文作者
@@ -43,5 +42,5 @@ ago:
   hour: "%s 小时前"
   day: "%s 天前"
   week: "%s 周前"
-  month: "%s 月前"
+  month: "%s 个月前"
   year: "%s 年前"
