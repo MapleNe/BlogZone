@@ -2,9 +2,9 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Scorpio's Blog
+  title: QTE
   author: 沐予之枫
-  url: https://www.scorain.com/
+  url: https://cuute.cc/
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img:
 
@@ -228,7 +228,7 @@ pjax:
 # Footer settings
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020      # the starting year of your website, Can be null
+  since: 2022      # the starting year of your website, Can be null
   icp:             # ICP record number of your website, Can be null
 
 
