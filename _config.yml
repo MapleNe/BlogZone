@@ -126,3 +126,9 @@ deploy:
 
 abbrlink:
   start: 1 # the first id, default 0  
+
+# hexo-admin authentification
+ admin:
+   username: MapleNe
+   password_hash: $2a$10$lf3qRtpR2PsMHNS8es3EROJAbGlAgWqMTAovQO.vaFzrjTzHxQOly
+   secret: my super secret phrase
